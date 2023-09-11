@@ -1,0 +1,1 @@
+-- LIMIT clause is used to limit the number of records
